@@ -1,0 +1,10 @@
+type: Conveyor
+name: Piska Conveyor
+description: Very imba piska conveyor.
+requirements: [
+  copper/2
+  piski/10
+]
+category: distribution
+speed: 0.12
+research: titanium-conveyor

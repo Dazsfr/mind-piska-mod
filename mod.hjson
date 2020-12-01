@@ -1,0 +1,6 @@
+name: "dazsfr-mod"
+displayName: "[pink]Pisko[gold] Mod" //what displays in the mod selection menu
+author: "Dazsfr"
+description: "Adds some piska-ore and some piska-items and piska-block and piska-conveyor"
+version: "1.0"
+minGameVersion: "103"
